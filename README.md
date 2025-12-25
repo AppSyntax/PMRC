@@ -1,3 +1,3 @@
-# Layouts Directory
+# Types Directory
 
-This is a layouts reserved directory. 
+This is a types reserved directory. 
