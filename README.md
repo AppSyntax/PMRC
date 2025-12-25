@@ -1,3 +1,3 @@
-# API Directory
+# Components Directory
 
-This is an API reserved directory. 
+This is a components reserved directory. 
