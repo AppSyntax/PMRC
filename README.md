@@ -1,3 +1,3 @@
-# Components Directory
+# Layouts Directory
 
-This is a components reserved directory. 
+This is a layouts reserved directory. 
